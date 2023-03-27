@@ -1,0 +1,82 @@
+.image1
+{
+    background-color: #6f6ffe;
+    overflow:hidden;
+}
+#titleName
+{
+    background-color:#3f3f7e;
+    margin-top:0px;
+}
+#health1
+{
+    margin-left:20px;
+    margin-top:20px;
+}
+#healthDescription1
+{
+   
+    margin-left:400px;
+    margin-top:-60px;
+    
+}
+#healthParagraph1
+{
+   
+    margin-left:400px;
+    padding-bottom:70px;
+}
+#yoga{
+    display: flex;
+    background-color: #6f6ffe;
+    justify-content: space-between;    
+}
+#yoga img{
+    padding-right:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#yoga #healthParagraph2
+{
+    margin-left:20px;
+}
+#yoga1{
+    display: flex;
+    background-color: #6f6ffe;
+    justify-content: space-between;    
+}
+#yoga1 #healthParagraph3
+{
+    margin-left:-820px;
+}
+#yoga1 #healthDescription3
+{
+    margin-left:-900px;
+}
+#yoga4{
+    display: flex;
+    background-color: #6f6ffe;
+    justify-content: space-between;    
+}
+#yoga4 img{
+    padding-right:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#yoga4 #healthParagraph4
+{
+    margin-left:20px;
+}
+#yoga5{
+    display: flex;
+    background-color: #6f6ffe;
+    justify-content: space-between;    
+}
+#yoga5 #healthParagraph5
+{
+    margin-left:-820px;
+}
+#yoga5 #healthDescription5
+{
+    margin-left:-900px;
+}
